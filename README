@@ -1,0 +1,9 @@
+This is my own root certificate.
+
+If I ever lose access to proper TLS certificates, you can install this to your
+browser and you'll be able to visit my site securely on
+<https://eternaltls.oskog97.com/>.
+
+
+PS. If you're into time consuming prime factorisation, I'd recommend
+<https://xkcd.com/247/> instead, it's a lot more fun than RSA!
